@@ -4,7 +4,7 @@ const routes = [
     path: '/#',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '/breakfast', component: () => import('pages/Test.vue'), props: { title: 'breakfast' } },
+      { path: '/breakfast', component: () => import('pages/Breakfast.vue'), props: { title: 'breakfast' } },
       { path: '/sandwiches', component: () => import('pages/Test.vue'), props: { title: 'sandwiches' } },
       { path: '/salads', component: () => import('pages/Test.vue'), props: { title: 'salads' } },
       { path: '/starters', component: () => import('pages/Test.vue'), props: { title: 'starters' } },
