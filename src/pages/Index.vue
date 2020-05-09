@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex flex-center">
     <img
-      alt="Quasar logo"
+      alt="logo"
       src="~assets/avatar.png"
     >
   </q-page>

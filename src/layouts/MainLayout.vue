@@ -64,46 +64,70 @@ export default {
       leftDrawerOpen: true,
       essentialLinks: [
         {
-          title: 'Docs',
-          caption: 'quasar.dev',
-          icon: 'school',
-          link: 'https://quasar.dev'
+          title: 'Breakfast',
+          caption: 'caption pending',
+          icon: 'local_cafe',
+          link: '#/breakfast'
         },
         {
-          title: 'AQUI LO CAMBIAMOS',
-          caption: 'github.com/quasarframework',
-          icon: 'code',
-          link: 'https://github.com/quasarframework'
+          title: 'Sandwiches',
+          caption: 'caption pending',
+          icon: 'local_restaurant',
+          link: '#/sandwiches'
         },
         {
-          title: 'Discord Chat Channel',
-          caption: 'chat.quasar.dev',
-          icon: 'chat',
-          link: 'https://chat.quasar.dev'
+          title: 'Salads',
+          caption: 'caption pending',
+          icon: 'local_restaurant',
+          link: '#/salads'
         },
         {
-          title: 'Forum',
-          caption: 'forum.quasar.dev',
-          icon: 'record_voice_over',
-          link: 'https://forum.quasar.dev'
+          title: 'Starters',
+          caption: 'caption pending',
+          icon: 'local_restaurant',
+          link: '#/starters'
         },
         {
-          title: 'Twitter',
-          caption: '@quasarframework',
-          icon: 'rss_feed',
-          link: 'https://twitter.quasar.dev'
+          title: 'Main courses',
+          caption: 'caption pending',
+          icon: 'local_restaurant',
+          link: '#/maincourses'
+        },
+        {
+          title: 'Desserts',
+          caption: 'caption pending',
+          icon: 'cake',
+          link: '#/desserts'
+        },
+        {
+          title: 'Drinks',
+          caption: 'caption pending',
+          icon: 'local_bar',
+          link: '#/drinks'
+        },
+        {
+          title: 'Set meals',
+          caption: 'caption pending',
+          icon: 'local_dining',
+          link: '#/setmeals'
+        },
+        {
+          title: 'Alergens',
+          caption: 'Check all info about alergens',
+          icon: 'priority_high',
+          link: '#/alergens'
         },
         {
           title: 'Facebook',
-          caption: '@QuasarFramework',
+          caption: 'Visit us',
           icon: 'public',
-          link: 'https://facebook.quasar.dev'
+          link: 'https://facebook.com/barlunasahagun'
         },
         {
-          title: 'Quasar Awesome',
-          caption: 'Community Quasar projects',
+          title: 'TripAdvisor',
+          caption: 'Rate us',
           icon: 'favorite',
-          link: 'https://awesome.quasar.dev'
+          link: 'https://www.tripadvisor.es/Restaurant_Review-g676288-d8381001-Reviews-Bar_Luna-Sahagun_Province_of_Leon_Castile_and_Leon.html'
         }
       ]
     }
