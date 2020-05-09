@@ -12,10 +12,10 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          {{ place }}
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>v{{ version }}</div>
       </q-toolbar>
     </q-header>
 
@@ -30,7 +30,7 @@
           header
           class="text-grey-8"
         >
-          Essential Links
+          {{ menutitle }}
         </q-item-label>
         <EssentialLink
           v-for="link in essentialLinks"
@@ -58,7 +58,10 @@ export default {
 
   data () {
     return {
-      leftDrawerOpen: false,
+      place: 'Bar Luna - Sahagún (León)',
+      menutitle: 'Categories',
+      version: '1.0',
+      leftDrawerOpen: true,
       essentialLinks: [
         {
           title: 'Docs',
@@ -67,7 +70,7 @@ export default {
           link: 'https://quasar.dev'
         },
         {
-          title: 'Github',
+          title: 'AQUI LO CAMBIAMOS',
           caption: 'github.com/quasarframework',
           icon: 'code',
           link: 'https://github.com/quasarframework'
