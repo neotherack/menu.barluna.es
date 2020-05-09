@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Menú Bar Luna - Sahagún (menu.barluna.es)
 
 This is the menu web app for Bar Luna, Sahagún (León - Spain)
@@ -24,3 +25,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+=======
+# menu.barluna.es
+>>>>>>> a0b4145dc81174b957e2d0b01a322541ed737dcb
