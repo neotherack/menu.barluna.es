@@ -113,9 +113,9 @@ export default {
         },
         {
           title: 'Alérgenos',
-          caption: 'Alergens',
+          caption: 'Allergens',
           icon: 'fas fa-exclamation-triangle',
-          link: '#/alergens'
+          link: '#/allergens'
         },
         {
           title: 'Facebook',

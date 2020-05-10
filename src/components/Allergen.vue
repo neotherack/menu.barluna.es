@@ -18,7 +18,7 @@
 
 <script>
 export default {
-  name: 'Alergen',
+  name: 'Allergen',
   props: {
     title: {
       type: String,

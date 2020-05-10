@@ -14,8 +14,8 @@
     </q-item-section>
 
     <q-item-section>
-      <q-item-label class="text-weight-medium">{{ title }}</q-item-label>
-      <q-item-label class="text-weight-medium text-italic">{{ caption }}</q-item-label>
+      <q-item-label class="text-h6 text-weight-medium">{{ title }}</q-item-label>
+      <q-item-label class="text-h6 text-weight-medium text-italic">{{ caption }}</q-item-label>
     </q-item-section>
   </q-item>
 </template>

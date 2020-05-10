@@ -1,8 +1,8 @@
 <template>
   <q-page class="flex flex-center row text-center">
     <div class="q-ma-sm col-11 text-h4 text-weight-medium">Alérgenos</div>
-    <div class="q-ma-sm col-11 text-h4 text-weight-medium text-italic">Alergens</div>
-    <Alergen
+    <div class="q-ma-sm col-11 text-h4 text-weight-medium text-italic">Allergens</div>
+    <Allergen
           v-for="element in list"
           :key="element.title"
           v-bind="element"
@@ -11,11 +11,11 @@
 </template>
 
 <script>
-import Alergen from 'components/Alergen'
+import Allergen from 'components/Allergen'
 
 export default {
-  name: 'Alergens',
-  components: { Alergen },
+  name: 'Allergens',
+  components: { Allergen },
 
   data () {
     return {

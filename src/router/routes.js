@@ -11,8 +11,8 @@ const routes = [
       { path: '/maincourses', component: () => import('pages/MainCourses.vue'), props: { title: 'maincourses' } },
       { path: '/desserts', component: () => import('pages/Desserts.vue'), props: { title: 'desserts' } },
       { path: '/drinks', component: () => import('pages/Drinks.vue'), props: { title: 'drinks' } },
-      { path: '/setmeals', component: () => import('pages/Test.vue'), props: { title: 'setmeals' } },
-      { path: '/alergens', component: () => import('pages/Alergens.vue'), props: { title: 'alergens' } }
+      { path: '/setmeals', component: () => import('pages/SetMeals.vue'), props: { title: 'setmeals' } },
+      { path: '/allergens', component: () => import('pages/Allergens.vue'), props: { title: 'allergens' } }
     ]
   },
   {
