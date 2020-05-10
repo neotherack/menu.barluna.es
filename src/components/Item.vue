@@ -20,9 +20,9 @@
     </q-card-section>
     <q-separator />
     <q-card-section vertical>
-      <div class="text-h6 text-weight-medium text-left">{{ title }}</div>
-      <q-separator />
-      <div class="text-h6 text-weight-medium text-italic text-left">{{ caption }}</div>
+      <div class="text-h6 text-weight-bold text-blue text-left">{{ title }}</div>
+      <q-separator class="q-my-sm"/>
+      <div class="text-h6 text-weight-medium text-left">{{ caption }}</div>
     </q-card-section>
   </q-card>
 </template>

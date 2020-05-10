@@ -21,52 +21,108 @@ export default {
     return {
       list: [
         {
-          title: 'Zumo de naranja natural',
-          caption: 'Fresh orange juice',
+          title: 'Patatas bravas [grande]',
+          caption: 'Fried potatoes [large] (mayo and tomato sauce)',
           image: 'no-image.png',
-          cost: '2,00 €',
+          cost: '5,00 €',
           alergen: {}
         },
         {
-          title: 'Café con leche y tostada de mantequilla y mermelada',
-          caption: 'Large caffe latte and butter/jam toast',
+          title: 'Patatas bravas [mediana]',
+          caption: 'Fried potatoes [medium size](mayo and tomato sauce)',
           image: 'no-image.png',
-          cost: '2,40 €',
+          cost: '3,00 €',
           alergen: {}
         },
         {
-          title: 'Café con leche grande y dos magdalenas',
-          caption: 'Large caffe latte and two muffins',
+          title: 'Puntillitas',
+          caption: 'Tiny fried-battered squid',
           image: 'no-image.png',
-          cost: '2,40 €',
+          cost: '8,50 €',
           alergen: {}
         },
         {
-          title: 'Café con leche grande con tostada de aceite de oliva',
-          caption: 'Large caffe latte and olive oil toast',
+          title: 'Gambones',
+          caption: 'Large grilled shrimps',
           image: 'no-image.png',
-          cost: '2,40 €',
+          cost: '12,80 €',
           alergen: {}
         },
         {
-          title: 'Café con leche grande y tostada con tomate y aceite de oliva',
-          caption: 'Large caffe latte with tomato and olive oil toast',
+          title: 'Boquerones en vinagre',
+          caption: 'Vinegar marinated anchovies',
           image: 'no-image.png',
-          cost: '2,40 €',
+          cost: '8,00 €',
           alergen: {}
         },
         {
-          title: 'Café con leche grande y napolitana o croissant',
-          caption: 'Large caffe late with “pain au chocolat” or croissant',
+          title: 'Croquetas de cecina',
+          caption: 'Jerky croquettes',
           image: 'no-image.png',
-          cost: '2,70 €',
+          cost: '7,50 €',
           alergen: {}
         },
         {
-          title: 'Café con leche grande y tostada con jamón serrano, aceite de oliva y tomate',
-          caption: 'Large caffe latte with tomato, serrano ham and olive oil toast',
+          title: 'Croquetas de boletus con trufa',
+          caption: 'Boletus and truffle croquettes',
+          image: 'no-image.png',
+          cost: '7,50 €',
+          alergen: {}
+        },
+        {
+          title: 'Champiñones',
+          caption: 'Mushrooms',
+          image: 'no-image.png',
+          cost: '7,80 €',
+          alergen: {}
+        },
+        {
+          title: 'Torreznos de soria (2 unidades)',
+          caption: 'Thick bacon rashers (2 units)',
+          image: 'no-image.png',
+          cost: '6,00 €',
+          alergen: {}
+        },
+        {
+          title: 'Chorizo a la sidra',
+          caption: 'Cider boiled red saussage',
           image: 'no-image.png',
           cost: '3,50 €',
+          alergen: {}
+        },
+        {
+          title: 'Pastel de cabracho',
+          caption: 'Red scorpionfish pie',
+          image: 'no-image.png',
+          cost: '9,00€',
+          alergen: {}
+        },
+        {
+          title: 'Ración de cecina de león',
+          caption: 'Jerky (cured cow meat)',
+          image: 'no-image.png',
+          cost: '10,00€',
+          alergen: {}
+        },
+        {
+          title: 'Chosco',
+          caption: 'Cured pork meat',
+          image: 'no-image.png',
+          cost: '10,00€',
+          alergen: {}
+        },
+        {
+          title: 'Ración de jamón serrano',
+          caption: 'Cured pork ham',
+          image: 'no-image.png',
+          cost: '9,00€',
+          alergen: {}
+        },
+        {
+          title: 'Ración de queso',
+          caption: 'Cured cheese',
+          image: 'no-image.png',
+          cost: '9,00€',
           alergen: {}
         }
       ]

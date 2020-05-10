@@ -8,9 +8,9 @@ const routes = [
       { path: '/sandwiches', component: () => import('pages/Sandwiches.vue'), props: { title: 'sandwiches' } },
       { path: '/salads', component: () => import('pages/Salads.vue'), props: { title: 'salads' } },
       { path: '/starters', component: () => import('pages/Starters.vue'), props: { title: 'starters' } },
-      { path: '/maincourses', component: () => import('pages/Test.vue'), props: { title: 'maincourses' } },
-      { path: '/desserts', component: () => import('pages/Test.vue'), props: { title: 'desserts' } },
-      { path: '/drinks', component: () => import('pages/Test.vue'), props: { title: 'drinks' } },
+      { path: '/maincourses', component: () => import('pages/MainCourses.vue'), props: { title: 'maincourses' } },
+      { path: '/desserts', component: () => import('pages/Desserts.vue'), props: { title: 'desserts' } },
+      { path: '/drinks', component: () => import('pages/Drinks.vue'), props: { title: 'drinks' } },
       { path: '/setmeals', component: () => import('pages/Test.vue'), props: { title: 'setmeals' } },
       { path: '/alergens', component: () => import('pages/Test.vue'), props: { title: 'alergens' } }
     ]
