@@ -112,7 +112,7 @@ export default {
           link: '#/setmeals'
         },
         {
-          title: 'Alergenos',
+          title: 'Alérgenos',
           caption: 'Alergens',
           icon: 'fas fa-exclamation-triangle',
           link: '#/alergens'

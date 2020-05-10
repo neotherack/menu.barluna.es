@@ -9,7 +9,8 @@
       v-if="icon"
       avatar
     >
-      <q-icon class="text-blue" :name="icon" />
+      <q-icon v-if="title=='Alérgenos'" class="text-red" :name="icon" />
+      <q-icon v-else class="text-blue" :name="icon" />
     </q-item-section>
 
     <q-item-section>

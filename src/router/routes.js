@@ -12,7 +12,7 @@ const routes = [
       { path: '/desserts', component: () => import('pages/Desserts.vue'), props: { title: 'desserts' } },
       { path: '/drinks', component: () => import('pages/Drinks.vue'), props: { title: 'drinks' } },
       { path: '/setmeals', component: () => import('pages/Test.vue'), props: { title: 'setmeals' } },
-      { path: '/alergens', component: () => import('pages/Test.vue'), props: { title: 'alergens' } }
+      { path: '/alergens', component: () => import('pages/Alergens.vue'), props: { title: 'alergens' } }
     ]
   },
   {

@@ -21,36 +21,36 @@ export default {
     return {
       list: [
         {
-          title: 'CREMA DE LIMÓN',
-          caption: 'LEMON CREAM',
+          title: 'Crema de limón',
+          caption: 'Lemon cream',
           image: 'no-image.png',
           cost: '3,50 €',
           alergen: {}
         },
         {
-          title: 'TARTA DE LA ABUELA',
-          caption: 'GRANDMA’s CAKE',
+          title: 'Tarta de la abuela',
+          caption: 'Grandma’s cake',
           image: 'no-image.png',
           cost: '3,50 €',
           alergen: {}
         },
         {
-          title: 'BRAZO DE GITANO',
-          caption: 'SWISS ROLL',
+          title: 'Brazo de gitano',
+          caption: 'Swiss roll',
           image: 'no-image.png',
           cost: '3,50 €',
           alergen: {}
         },
         {
-          title: 'TARTA COMTESSA',
-          caption: 'ICE CREAM CAKE',
+          title: 'Tarta comtessa',
+          caption: 'Ice cream cake',
           image: 'no-image.png',
           cost: '3,50 €',
           alergen: {}
         },
         {
-          title: 'FRUTA DEL TIEMPO',
-          caption: 'FRUIT (Seasonal)',
+          title: 'Fruta del tiempo',
+          caption: 'Fruit (seasonal)',
           image: 'no-image.png',
           cost: '2,50 €',
           alergen: {}
