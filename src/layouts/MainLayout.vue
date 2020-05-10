@@ -64,68 +64,68 @@ export default {
       leftDrawerOpen: true,
       essentialLinks: [
         {
-          title: 'Breakfast',
-          caption: 'caption pending',
+          title: 'Desayunos',
+          caption: 'Breakfast',
           icon: 'local_cafe',
           link: '#/breakfast'
         },
         {
-          title: 'Sandwiches',
-          caption: 'caption pending',
+          title: 'Bocadillos',
+          caption: 'Sandwiches',
           icon: 'local_restaurant',
           link: '#/sandwiches'
         },
         {
-          title: 'Salads',
-          caption: 'caption pending',
+          title: 'Ensaladas',
+          caption: 'Salads',
           icon: 'local_restaurant',
           link: '#/salads'
         },
         {
-          title: 'Starters',
-          caption: 'caption pending',
+          title: 'Entrantes',
+          caption: 'Starters',
           icon: 'local_restaurant',
           link: '#/starters'
         },
         {
-          title: 'Main courses',
-          caption: 'caption pending',
+          title: 'Principales',
+          caption: 'Main courses',
           icon: 'local_restaurant',
           link: '#/maincourses'
         },
         {
-          title: 'Desserts',
-          caption: 'caption pending',
+          title: 'Postres',
+          caption: 'Desserts',
           icon: 'cake',
           link: '#/desserts'
         },
         {
-          title: 'Drinks',
-          caption: 'caption pending',
+          title: 'Bebidas',
+          caption: 'Drinks',
           icon: 'local_bar',
           link: '#/drinks'
         },
         {
-          title: 'Set meals',
-          caption: 'caption pending',
+          title: 'Menús',
+          caption: 'Set meals',
           icon: 'local_dining',
           link: '#/setmeals'
         },
         {
-          title: 'Alergens',
-          caption: 'Check all info about alergens',
+          title: 'Alergenos',
+          caption: 'Alergens',
           icon: 'priority_high',
           link: '#/alergens'
         },
         {
           title: 'Facebook',
-          caption: 'Visit us',
+          caption: 'Visitanos - Visit us',
           icon: 'public',
           link: 'https://facebook.com/barlunasahagun'
         },
         {
           title: 'TripAdvisor',
-          caption: 'Rate us',
+          caption: 'Puntuanos - Rate us',
           icon: 'favorite',
           link: 'https://www.tripadvisor.es/Restaurant_Review-g676288-d8381001-Reviews-Bar_Luna-Sahagun_Province_of_Leon_Castile_and_Leon.html'
         }

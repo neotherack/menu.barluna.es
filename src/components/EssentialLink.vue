@@ -2,6 +2,7 @@
   <q-item
     clickable
     tag="a"
+    class="q-my-sm"
     :href="link"
   >
     <q-item-section
@@ -12,10 +13,8 @@
     </q-item-section>
 
     <q-item-section>
-      <q-item-label>{{ title }}</q-item-label>
-      <q-item-label caption>
-        {{ caption }}
-      </q-item-label>
+      <q-item-label class="text-weight-medium">{{ title }}</q-item-label>
+      <q-item-label class="text-weight-medium text-italic">{{ caption }}</q-item-label>
     </q-item-section>
   </q-item>
 </template>

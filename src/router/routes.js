@@ -5,8 +5,8 @@ const routes = [
     component: () => import('layouts/MainLayout.vue'),
     children: [
       { path: '/breakfast', component: () => import('pages/Breakfast.vue'), props: { title: 'breakfast' } },
-      { path: '/sandwiches', component: () => import('pages/Test.vue'), props: { title: 'sandwiches' } },
-      { path: '/salads', component: () => import('pages/Test.vue'), props: { title: 'salads' } },
+      { path: '/sandwiches', component: () => import('pages/Sandwiches.vue'), props: { title: 'sandwiches' } },
+      { path: '/salads', component: () => import('pages/Salads.vue'), props: { title: 'salads' } },
       { path: '/starters', component: () => import('pages/Test.vue'), props: { title: 'starters' } },
       { path: '/maincourses', component: () => import('pages/Test.vue'), props: { title: 'maincourses' } },
       { path: '/desserts', component: () => import('pages/Test.vue'), props: { title: 'desserts' } },
