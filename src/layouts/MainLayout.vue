@@ -59,74 +59,74 @@ export default {
   data () {
     return {
       place: 'Bar Luna - Sahagún (León)',
-      menutitle: 'Categories',
+      menutitle: 'Menu',
       version: '1.0',
       leftDrawerOpen: true,
       essentialLinks: [
         {
           title: 'Desayunos',
           caption: 'Breakfast',
-          icon: 'local_cafe',
+          icon: 'fas fa-coffee',
           link: '#/breakfast'
         },
         {
           title: 'Bocadillos',
           caption: 'Sandwiches',
-          icon: 'local_restaurant',
+          icon: 'fas fa-hamburger',
           link: '#/sandwiches'
         },
         {
           title: 'Ensaladas',
           caption: 'Salads',
-          icon: 'local_restaurant',
+          icon: 'fas fa-carrot',
           link: '#/salads'
         },
         {
           title: 'Entrantes',
           caption: 'Starters',
-          icon: 'local_restaurant',
+          icon: 'fas fa-pizza-slice',
           link: '#/starters'
         },
         {
           title: 'Principales',
           caption: 'Main courses',
-          icon: 'local_restaurant',
+          icon: 'fas fa-utensil-spoon',
           link: '#/maincourses'
         },
         {
           title: 'Postres',
           caption: 'Desserts',
-          icon: 'cake',
+          icon: 'fas fa-ice-cream',
           link: '#/desserts'
         },
         {
           title: 'Bebidas',
           caption: 'Drinks',
-          icon: 'local_bar',
+          icon: 'fas fa-glass-cheers',
           link: '#/drinks'
         },
         {
           title: 'Menús',
           caption: 'Set meals',
-          icon: 'local_dining',
+          icon: 'fas fa-utensils',
           link: '#/setmeals'
         },
         {
           title: 'Alergenos',
           caption: 'Alergens',
-          icon: 'priority_high',
+          icon: 'fas fa-exclamation-triangle',
           link: '#/alergens'
         },
         {
           title: 'Facebook',
           caption: 'Visitanos - Visit us',
-          icon: 'public',
+          icon: 'fab fa-facebook-square',
           link: 'https://facebook.com/barlunasahagun'
         },
         {
           title: 'TripAdvisor',
           caption: 'Puntuanos - Rate us',
-          icon: 'favorite',
+          icon: 'fab fa-tripadvisor',
           link: 'https://www.tripadvisor.es/Restaurant_Review-g676288-d8381001-Reviews-Bar_Luna-Sahagun_Province_of_Leon_Castile_and_Leon.html'
         }
       ]

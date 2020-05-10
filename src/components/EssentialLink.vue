@@ -9,7 +9,7 @@
       v-if="icon"
       avatar
     >
-      <q-icon :name="icon" />
+      <q-icon class="text-blue" :name="icon" />
     </q-item-section>
 
     <q-item-section>
