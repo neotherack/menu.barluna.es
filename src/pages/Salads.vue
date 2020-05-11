@@ -23,7 +23,7 @@ export default {
         {
           title: 'MIXTA: Lechuga, tomate, cebolla, maíz, atún, huevo cocido y espárrago',
           caption: 'MIXED: Lettuce, tomato, onion, corn, tuna, egg and asparagus',
-          image: 'no-image.png',
+          image: 'ensaladas_mixta.PNG',
           cost: '7,00 €',
           alergen: {}
         },
@@ -37,7 +37,7 @@ export default {
         {
           title: 'FRUTAS: Lechuga, tomate, naranja, melocotón, nueces, queso y piña',
           caption: 'FRUIT: Lettuce, tomato, orange, peach, walnuts, cheese and pineapple',
-          image: 'no-image.png',
+          image: 'ensaladas_frutas.PNG',
           cost: '7,00 €',
           alergen: {}
         },
@@ -51,7 +51,7 @@ export default {
         {
           title: 'JAMÓN YORK Y QUESO: lechuga, jamón york, queso, maíz, piña y nueces',
           caption: 'HAM & CHEESE: lettuce, ham, cheese, corn, pineapple and walnuts',
-          image: 'no-image.png',
+          image: 'ensaladas_jamonyorkqueso.PNG',
           cost: '8,50 €',
           alergen: {}
         },

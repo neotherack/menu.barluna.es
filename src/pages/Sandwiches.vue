@@ -79,14 +79,14 @@ export default {
         {
           title: 'Sándwich mixto',
           caption: 'Ham and cheese sandwich',
-          image: 'no-image.png',
+          image: 'bocadillos_sandwichmixto.PNG',
           cost: '3,50 €',
           alergen: {}
         },
         {
           title: 'Sánwich vegetal: lechuga, huevo, mayonesa, tomate y atún',
           caption: 'Veggie sandwich: lettuce, egg, tomato, tuna and mayo sauce',
-          image: 'no-image.png',
+          image: 'bocadillos_sandwichvegetal.PNG',
           cost: '3,50 €',
           alergen: {}
         }
