@@ -4,10 +4,10 @@
       <q-img
         :src="imageurl"
         basic
-        class="col6"
+        width="45%"
       />
       <q-separator/>
-      <q-card-section vertical class="col6">
+      <q-card-section vertical class="col">
         <div class="text-h6 text-weight-bold text-blue text-left">{{ title }}</div>
         <q-space/>
         <div class="text-h6 text-weight-medium text-left">{{ caption }}</div>

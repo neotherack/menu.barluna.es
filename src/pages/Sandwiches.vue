@@ -81,7 +81,7 @@ export default {
           caption: 'Ham and cheese sandwich',
           image: 'bocadillos_sandwichmixto.png',
           cost: '3,50 €',
-          allergens: [{ name: 'gluten' }, { name: 'moluscos' }, { name: 'soja' }]
+          allergens: [{ name: 'gluten' }, { name: 'lacteos' }, { name: 'soja' }]
         },
         {
           title: 'Sándwich vegetal: lechuga, huevo, mayonesa, tomate y atún',
