@@ -57,9 +57,9 @@ export default {
           image: 'sesamo.png'
         },
         {
-          title: 'Crustáceo',
+          title: 'Crustáceos',
           caption: 'Crustacean',
-          image: 'crustaceo.png'
+          image: 'crustaceos.png'
         },
         {
           title: 'Frutos con cáscara',
@@ -82,9 +82,9 @@ export default {
           image: 'pescado.png'
         },
         {
-          title: 'Huevo',
+          title: 'Huevos',
           caption: 'Egg',
-          image: 'huevo.png'
+          image: 'huevos.png'
         },
         {
           title: 'Gluten',
