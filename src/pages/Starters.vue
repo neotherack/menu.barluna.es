@@ -23,21 +23,21 @@ export default {
         {
           title: 'Patatas bravas [grande]',
           caption: 'Fried potatoes [large] (mayo and tomato sauce)',
-          image: 'raciones_bravas.PNG',
+          image: 'raciones_bravas.png',
           cost: '5,00 €',
           alergen: {}
         },
         {
           title: 'Patatas bravas [mediana]',
           caption: 'Fried potatoes [medium size](mayo and tomato sauce)',
-          image: 'raciones_bravas.PNG',
+          image: 'raciones_bravas.png',
           cost: '3,00 €',
           alergen: {}
         },
         {
           title: 'Puntillitas',
           caption: 'Tiny fried-battered squid',
-          image: 'raciones_chipirones.PNG',
+          image: 'raciones_chipirones.png',
           cost: '8,50 €',
           alergen: {}
         },
@@ -51,7 +51,7 @@ export default {
         {
           title: 'Boquerones en vinagre',
           caption: 'Vinegar marinated anchovies',
-          image: 'raciones_boquerones.PNG',
+          image: 'raciones_boquerones.png',
           cost: '8,00 €',
           alergen: {}
         },
@@ -86,7 +86,7 @@ export default {
         {
           title: 'Chorizo a la sidra',
           caption: 'Cider boiled red saussage',
-          image: 'raciones_chorizosidra.PNG',
+          image: 'raciones_chorizosidra.png',
           cost: '3,50 €',
           alergen: {}
         },
@@ -100,7 +100,7 @@ export default {
         {
           title: 'Ración de cecina de león',
           caption: 'Jerky (cured cow meat)',
-          image: 'raciones_cecina.PNG',
+          image: 'raciones_cecina.png',
           cost: '10,00€',
           alergen: {}
         },
@@ -114,14 +114,14 @@ export default {
         {
           title: 'Ración de jamón serrano',
           caption: 'Cured pork ham',
-          image: 'raciones_jamon.PNG',
+          image: 'raciones_jamon.png',
           cost: '9,00€',
           alergen: {}
         },
         {
           title: 'Ración de queso',
           caption: 'Cured cheese',
-          image: 'raciones_queso.PNG',
+          image: 'raciones_queso.png',
           cost: '9,00€',
           alergen: {}
         }

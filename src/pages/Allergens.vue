@@ -6,6 +6,7 @@
           v-for="element in list"
           :key="element.title"
           v-bind="element"
+          class="col-11 col-md-5"
         />
   </q-page>
 </template>
@@ -31,7 +32,7 @@ export default {
           image: 'apio.png'
         },
         {
-          title: 'Cacahuete',
+          title: 'Cacahuetes',
           caption: 'Peanuts',
           image: 'cacahuete.png'
         },

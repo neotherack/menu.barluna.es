@@ -23,58 +23,58 @@ export default {
         {
           title: 'Ramón Bilbao (tinto)',
           caption: 'Ramón Bilbao (red wine)',
-          image: 'no-image.png',
+          image: 'bebidas_ramonbilbao.png',
           cost: '12,00 €',
-          alergen: {}
+          allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Rioja (tinto)',
           caption: 'Rioja (red wine)',
-          image: 'no-image.png',
+          image: 'bebidas_rioja.png',
           cost: '9,00 €',
-          alergen: {}
+          allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Ribera del Duero (tinto)',
           caption: 'Ribera del Duero (red wine)',
-          image: 'no-image.png',
+          image: 'bebidas_ribera.png',
           cost: '9,00 €',
-          alergen: {}
+          allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Bierzo (tinto)',
           caption: 'Bierzo (red wine)',
-          image: 'no-image.png',
+          image: 'bebidas_bierzo.png',
           cost: '7,00 €',
-          alergen: {}
+          allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Prieto Picudo (rosado)',
           caption: 'Prieto Picudo (rosé wine)',
-          image: 'no-image.png',
+          image: 'bebidas_prietopicudo.png',
           cost: '7,00 €',
-          alergen: {}
+          allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Verdejo (blanco)',
           caption: 'Verdejo (white wine)',
-          image: 'no-image.png',
+          image: 'bebidas_verdejo.png',
           cost: '7,00 €',
-          alergen: {}
+          allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Albariño (blanco)',
           caption: 'Albariño (white wine)',
-          image: 'no-image.png',
+          image: 'bebidas_albarino.png',
           cost: '9,00 €',
-          alergen: {}
+          allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Vino de la casa (tinto, rosado o blanco)',
           caption: 'Table wine (red, rosé or white wine)',
-          image: 'no-image.png',
+          image: 'bebidas_vinomesa.png',
           cost: '4,00 €',
-          alergen: {}
+          allergens: [{ name: 'sulfitos' }]
         }
       ]
     }

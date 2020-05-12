@@ -51,21 +51,21 @@ export default {
         {
           title: 'Morcilla de León',
           caption: 'Black pudding (cured pork blood and onion)',
-          image: 'raciones_morcilla.PNG',
+          image: 'raciones_morcilla.png',
           cost: '6,00 €',
           alergen: {}
         },
         {
           title: 'Callos',
           caption: 'Veal tripe stew',
-          image: 'principales_callos.PNG',
+          image: 'principales_callos.png',
           cost: '9,80 €',
           alergen: {}
         },
         {
           title: 'Oreja',
           caption: 'Pork ear stew',
-          image: 'raciones_oreja.PNG',
+          image: 'raciones_oreja.png',
           cost: '9,80€',
           alergen: {}
         },
@@ -79,7 +79,7 @@ export default {
         {
           title: 'Calamares',
           caption: 'Fried-battered squid',
-          image: 'raciones_calamares.PNG',
+          image: 'raciones_calamares.png',
           cost: '9,80€',
           alergen: {}
         },
@@ -93,7 +93,7 @@ export default {
         {
           title: 'Hamburguesa',
           caption: 'Hamburguer',
-          image: 'principales_hamburguesa.PNG',
+          image: 'principales_hamburguesa.png',
           cost: '6,50€',
           alergen: {}
         }

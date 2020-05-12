@@ -119,19 +119,19 @@ export default {
         },
         {
           title: 'Facebook',
-          caption: 'Visitanos - Visit us',
+          caption: 'Visítanos - Visit us',
           icon: 'fab fa-facebook-square',
           link: 'https://facebook.com/barlunasahagun'
         },
         {
           title: 'TripAdvisor',
-          caption: 'Puntuanos - Rate us',
+          caption: 'Puntúanos - Rate us',
           icon: 'fab fa-tripadvisor',
           link: 'https://www.tripadvisor.es/Restaurant_Review-g676288-d8381001-Reviews-Bar_Luna-Sahagun_Province_of_Leon_Castile_and_Leon.html'
         },
         {
           title: 'Google Maps',
-          caption: 'Puntuanos - Rate us',
+          caption: 'Puntúanos - Rate us',
           icon: 'fab fa-google',
           link: 'https://www.google.es/maps/place/Bar+Luna/@42.3723441,-5.033269,17z/data=!3m1!4b1!4m5!3m4!1s0xd47ff3a80563221:0xe6a366de01fc7c82!8m2!3d42.3723441!4d-5.0310803'
         }

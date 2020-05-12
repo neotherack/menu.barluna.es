@@ -25,70 +25,70 @@ export default {
           caption: 'Squid',
           image: 'no-image.png',
           cost: '4,00 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'moluscos' }, { name: 'soja' }]
         },
         {
           title: 'Jamón serrano',
           caption: 'Serrano ham',
           image: 'no-image.png',
           cost: '4,00 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }]
         },
         {
           title: 'Queso',
           caption: 'Cured cheese',
           image: 'no-image.png',
           cost: '4,00 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
           title: 'Bacon y queso',
           caption: 'Bacon and cheese',
           image: 'no-image.png',
           cost: '4,00 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
           title: 'Chorizo',
           caption: 'Red sausage',
           image: 'no-image.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }]
         },
         {
           title: 'Tortilla de patata',
           caption: 'Spanish potato omelette',
           image: 'no-image.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'huevos' }]
         },
         {
           title: 'Tortilla francesa',
           caption: 'Omelette',
           image: 'no-image.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'huevos' }]
         },
         {
           title: 'Tortilla de chorizo, jamón serrano o atún',
           caption: 'Red sausage, serrano ham or tuna',
           image: 'no-image.png',
           cost: '4,00 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'pescado' }]
         },
         {
           title: 'Sándwich mixto',
           caption: 'Ham and cheese sandwich',
-          image: 'bocadillos_sandwichmixto.PNG',
+          image: 'bocadillos_sandwichmixto.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'moluscos' }, { name: 'soja' }]
         },
         {
-          title: 'Sánwich vegetal: lechuga, huevo, mayonesa, tomate y atún',
+          title: 'Sándwich vegetal: lechuga, huevo, mayonesa, tomate y atún',
           caption: 'Veggie sandwich: lettuce, egg, tomato, tuna and mayo sauce',
-          image: 'bocadillos_sandwichvegetal.PNG',
+          image: 'bocadillos_sandwichvegetal.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'huevos' }, { name: 'pescado' }, { name: 'lacteos' }]
         }
       ]
     }

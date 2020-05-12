@@ -1,17 +1,17 @@
 <template>
-  <q-card class="col-11 col-md-5 q-ma-sm" vertical>
-    <q-card-section horizontal class="col">
+  <q-card class="q-ma-sm" horizontal>
+    <q-card-section horizontal>
       <q-img
-        class="col-3 offset-5"
         :src="imageurl"
         basic
+        class="col6"
       />
-    </q-card-section>
-    <q-separator />
-    <q-card-section vertical>
-      <div class="text-h6 text-weight-bold text-blue text-left">{{ title }}</div>
-      <q-separator class="q-my-sm"/>
-      <div class="text-h6 text-weight-medium text-left">{{ caption }}</div>
+      <q-separator/>
+      <q-card-section vertical class="col6">
+        <div class="text-h6 text-weight-bold text-blue text-left">{{ title }}</div>
+        <q-space/>
+        <div class="text-h6 text-weight-medium text-left">{{ caption }}</div>
+      </q-card-section>
     </q-card-section>
   </q-card>
 </template>
@@ -40,7 +40,7 @@ export default {
   },
   computed: {
     imageurl: function () {
-      return 'https://menu.barluna.es/alergens/' + this.image
+      return 'https://menu.barluna.es/allergens/' + this.image
     }
   }
 }
