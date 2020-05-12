@@ -25,56 +25,56 @@ export default {
           caption: 'MIXED: Lettuce, tomato, onion, corn, tuna, egg and asparagus',
           image: 'ensaladas_mixta.png',
           cost: '7,00 €',
-          alergen: {}
+          allergens: [{ name: 'pescado' }, { name: 'huevos' }]
         },
         {
           title: 'PIPIRRANA: Atún, tomate, pimiento rojo y verde, pepino, cebolla y huevo cocido',
           caption: 'PIPIRRANA: Tuna, tomato, pepper, cucumber, onion and boiled egg',
           image: 'no-image.png',
           cost: '7,00 €',
-          alergen: {}
+          allergens: [{ name: 'pescado' }, { name: 'huevos' }]
         },
         {
           title: 'FRUTAS: Lechuga, tomate, naranja, melocotón, nueces, queso y piña',
           caption: 'FRUIT: Lettuce, tomato, orange, peach, walnuts, cheese and pineapple',
           image: 'ensaladas_frutas.png',
           cost: '7,00 €',
-          alergen: {}
+          allergens: [{ name: 'lacteos' }, { name: 'frutoscascara' }]
         },
         {
           title: 'CECINA Y QUESO DE CABRA: lechuga, tomate, cecina, queso de cabra y crujiente de cebolla',
           caption: 'JERKY (cured cow meat) & GOAT CHEESE: lettuce, tomato, jerky, goat cheese and crispy onion',
           image: 'no-image.png',
           cost: '8,50 €',
-          alergen: {}
+          allergens: [{ name: 'lacteos' }]
         },
         {
           title: 'JAMÓN YORK Y QUESO: lechuga, jamón york, queso, maíz, piña y nueces',
           caption: 'HAM & CHEESE: lettuce, ham, cheese, corn, pineapple and walnuts',
           image: 'ensaladas_jamonyorkqueso.png',
           cost: '8,50 €',
-          alergen: {}
+          allergens: [{ name: 'lacteos' }, { name: 'frutoscascara' }, { name: 'soja' }]
         },
         {
           title: 'TROPICAL: lechuga, palitos de cangrejo, piña, pimiento rojo y kiwi',
           caption: 'TROPICAL: lettuce, seafood sticks, pineapple, pepper and kiwi',
           image: 'no-image.png',
           cost: '8,50 €',
-          alergen: {}
+          allergens: [{ name: 'crustaceos' }, { name: 'huevos' }, { name: 'pescado' }, { name: 'soja' }]
         },
         {
           title: 'ENSALADILLA RUSA [Mediana]',
           caption: 'SPANISH POTATO SALAD [Medium size]: potato, tuna, mayo, egg, green peas and seafood sticks',
           image: 'no-image.png',
           cost: '4,50 €',
-          alergen: {}
+          allergens: [{ name: 'crustaceos' }, { name: 'huevos' }, { name: 'pescado' }, { name: 'moluscos' }]
         },
         {
           title: 'ENSALADILLA RUSA [Grande]',
           caption: 'SPANISH POTATO SALAD [Large]: potato, tuna, mayo, egg, green peas and seafood sticks',
           image: 'no-image.png',
           cost: '7,00 €',
-          alergen: {}
+          allergens: [{ name: 'crustaceos' }, { name: 'huevos' }, { name: 'pescado' }, { name: 'moluscos' }]
         }
       ]
     }

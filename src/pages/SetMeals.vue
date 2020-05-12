@@ -50,22 +50,22 @@ export default {
           {
             title: 'Jamón serrano',
             caption: 'Serrano ham',
-            alergen: {}
+            allergens: []
           },
           {
             title: 'Gambones a la plancha',
             caption: 'Large grilled shrimps',
-            alergen: {}
+            allergens: [{ name: 'sulfitos' }, { name: 'crustaceos' }]
           },
           {
             title: 'Carrilleras ibéricas en salsa con patatas fritas y ensalada',
             caption: 'Veal cheek stew with fries and salad',
-            alergen: {}
+            allergens: [{ name: 'sulfitos' }]
           },
           {
             title: 'Postre',
             caption: 'Dessert',
-            alergen: {}
+            allergens: []
           }
         ]
       },
@@ -79,32 +79,32 @@ export default {
           {
             title: 'Pastel de cabracho',
             caption: 'Red scorpionfish pie',
-            alergen: {}
+            allergens: [{ name: 'lacteos' }, { name: 'huevos' }, { name: 'pescado' }]
           },
           {
             title: 'Gambones a la plancha',
             caption: 'Large grilled shrimps',
-            alergen: {}
+            allergens: [{ name: 'sulfitos' }, { name: 'crustaceos' }]
           },
           {
             title: 'Calamares a la romana',
             caption: 'Fried-battered squid',
-            alergen: {}
+            allergens: [{ name: 'gluten' }, { name: 'moluscos' }, { name: 'soja' }]
           },
           {
             title: 'Chuletas de cordero lechal',
             caption: 'Grilled veal chops',
-            alergen: {}
+            allergens: []
           },
           {
             title: 'Croquetas de cecina',
             caption: 'Jerky croquettes',
-            alergen: {}
+            allergens: [{ name: 'gluten' }, { name: 'moluscos' }, { name: 'soja' }, { name: 'crustaceos' }, { name: 'lacteos' }, { name: 'pescado' }]
           },
           {
             title: 'Ensalada',
             caption: 'Salad',
-            alergen: {}
+            allergens: []
           }
         ]
       }

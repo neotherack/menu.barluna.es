@@ -25,7 +25,7 @@ export default {
           caption: 'Fresh orange juice',
           image: 'no-image.png',
           cost: '2,00 €',
-          alergen: []
+          allergens: []
         },
         {
           title: 'Café con leche y tostada de mantequilla y mermelada',

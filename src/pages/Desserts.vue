@@ -25,35 +25,35 @@ export default {
           caption: 'Lemon cream',
           image: 'no-image.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'lacteos' }]
         },
         {
           title: 'Tarta de la abuela',
           caption: 'Grandma’s cake',
           image: 'no-image.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'lacteos' }, { name: 'soja' }, { name: 'frutoscascara' }, { name: 'sulfitos' }, { name: 'sesamo' }]
         },
         {
           title: 'Brazo de gitano',
           caption: 'Swiss roll',
           image: 'no-image.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'gluten' }, { name: 'huevos' }, { name: 'frutoscascara' }, { name: 'lacteos' }]
         },
         {
           title: 'Tarta comtessa',
           caption: 'Ice cream cake',
           image: 'no-image.png',
           cost: '3,50 €',
-          alergen: {}
+          allergens: [{ name: 'soja' }, { name: 'lacteos' }]
         },
         {
           title: 'Fruta del tiempo',
           caption: 'Fruit (seasonal)',
           image: 'no-image.png',
           cost: '2,50 €',
-          alergen: {}
+          allergens: []
         }
       ]
     }
