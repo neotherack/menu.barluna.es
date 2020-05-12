@@ -23,7 +23,7 @@ export default {
         {
           title: 'Zumo de naranja natural',
           caption: 'Fresh orange juice',
-          image: 'no-image.png',
+          image: 'desayunos_zumo.png',
           cost: '2,00 €',
           allergens: []
         },
@@ -37,7 +37,7 @@ export default {
         {
           title: 'Café con leche grande y dos magdalenas',
           caption: 'Large caffe latte and two muffins',
-          image: 'no-image.png',
+          image: 'desayunos_cafedosmagdalenas.png',
           cost: '2,40 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }, { name: 'soja' }, { name: 'frutoscascara' }]
         },
@@ -45,7 +45,7 @@ export default {
           title: 'Café con leche grande con tostada de aceite de oliva',
           caption: 'Large caffe latte and olive oil toast',
           image: 'no-image.png',
-          cost: '2,40 €',
+          cost: '2,60 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
