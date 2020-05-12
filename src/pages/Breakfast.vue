@@ -45,14 +45,14 @@ export default {
           title: 'Café con leche grande con tostada de aceite de oliva',
           caption: 'Large caffe latte and olive oil toast',
           image: 'no-image.png',
-          cost: '2,60 €',
+          cost: '2,40 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
           title: 'Café con leche grande y tostada con tomate y aceite de oliva',
           caption: 'Large caffe latte with tomato and olive oil toast',
           image: 'no-image.png',
-          cost: '2,40 €',
+          cost: '2,60 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
