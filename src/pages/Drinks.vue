@@ -51,7 +51,7 @@ export default {
         {
           title: 'Prieto Picudo (tinto)',
           caption: 'Prieto Picudo (red wine)',
-          image: 'bebidas_prietopicudo.png',
+          image: 'bebidas_prietotinto.png',
           cost: '7,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
