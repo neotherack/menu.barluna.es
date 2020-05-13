@@ -77,7 +77,7 @@ export default {
           allergens: [{ name: 'soja' }, { name: 'gluten' }]
         },
         {
-          title: 'Torreznos de soria (2 unidades)',
+          title: 'Torreznos de Soria (2 unidades)',
           caption: 'Thick bacon rashers (2 units)',
           image: 'no-image.png',
           cost: '6,00 €',
@@ -98,7 +98,7 @@ export default {
           allergens: [{ name: 'lacteos' }, { name: 'huevos' }, { name: 'pescado' }]
         },
         {
-          title: 'Ración de cecina de león',
+          title: 'Ración de cecina de León',
           caption: 'Jerky (cured cow meat)',
           image: 'raciones_cecina.png',
           cost: '10,00€',
