@@ -88,28 +88,32 @@ export default {
           caption: 'Cider boiled red saussage',
           image: 'raciones_chorizosidra.png',
           cost: '3,50 €',
-          allergens: [{ name: 'sulfitos' }]
+          allergens: [{ name: 'sulfitos' }],
+          flags: [{ name: 'asturias' }]
         },
         {
           title: 'Pastel de cabracho',
           caption: 'Red scorpionfish pie',
           image: 'no-image.png',
           cost: '9,00€',
-          allergens: [{ name: 'lacteos' }, { name: 'huevos' }, { name: 'pescado' }]
+          allergens: [{ name: 'lacteos' }, { name: 'huevos' }, { name: 'pescado' }],
+          flags: [{ name: 'asturias' }]
         },
         {
           title: 'Ración de cecina de León',
           caption: 'Jerky (cured cow meat)',
           image: 'raciones_cecina.png',
           cost: '10,00€',
-          allergens: []
+          allergens: [],
+          flags: [{ name: 'leon' }]
         },
         {
           title: 'Chosco',
           caption: 'Cured pork meat',
           image: 'no-image.png',
           cost: '10,00€',
-          allergens: []
+          allergens: [],
+          flags: [{ name: 'asturias' }]
         },
         {
           title: 'Ración de jamón serrano',

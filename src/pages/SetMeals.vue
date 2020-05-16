@@ -107,7 +107,8 @@ export default {
           {
             title: 'Pastel de cabracho',
             caption: 'Red scorpionfish pie',
-            allergens: [{ name: 'lacteos' }, { name: 'huevos' }, { name: 'pescado' }]
+            allergens: [{ name: 'lacteos' }, { name: 'huevos' }, { name: 'pescado' }],
+            flags: [{ name: 'asturias' }]
           },
           {
             title: 'Gambones a la plancha',

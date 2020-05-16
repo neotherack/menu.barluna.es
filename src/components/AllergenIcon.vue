@@ -28,7 +28,7 @@ export default {
     },
     caption: function () {
       if (this.name === 'gluten') return 'ESP: Contiene gluten, ENG: Contains gluten'
-      if (this.name === 'cacahuetes') return 'ESP: Contiene cacahuetes&#xa;Contains peanuts'
+      if (this.name === 'cacahuetes') return 'ESP: Contiene cacahuetes, ENG: Contains peanuts'
       if (this.name === 'soja') return 'ESP: Contiene soja, ENG: Contains soy'
       if (this.name === 'altramuces') return 'ESP: Contiene altramuces, ENG: Contains lupin seeds'
       if (this.name === 'pescado') return 'ESP: Contiene pescado, ENG: Contains fish'

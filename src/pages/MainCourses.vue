@@ -53,7 +53,8 @@ export default {
           caption: 'Black pudding (cured pork blood and onion)',
           image: 'raciones_morcilla.png',
           cost: '6,00 €',
-          allergens: []
+          allergens: [],
+          flags: [{ name: 'leon' }]
         },
         {
           title: 'Callos',

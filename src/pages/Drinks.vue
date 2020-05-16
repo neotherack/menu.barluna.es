@@ -46,7 +46,8 @@ export default {
           caption: 'Bierzo (red wine)',
           image: 'bebidas_bierzo.png',
           cost: '7,00 €',
-          allergens: [{ name: 'sulfitos' }]
+          allergens: [{ name: 'sulfitos' }],
+          flags: [{ name: 'leon' }]
         },
         {
           title: 'Prieto Picudo (tinto)',
