@@ -11,7 +11,7 @@
           @click="leftDrawerOpen = !leftDrawerOpen"
         />
 
-        <q-toolbar-title>
+        <q-toolbar-title class="text-h5">
           {{ place }}
         </q-toolbar-title>
 
@@ -60,7 +60,7 @@ export default {
     return {
       place: 'Bar Luna - Sahagún (León)',
       menutitle: 'Menu',
-      version: '1.0',
+      version: '1.1',
       leftDrawerOpen: true,
       essentialLinks: [
         {

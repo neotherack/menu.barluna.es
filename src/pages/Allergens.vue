@@ -48,7 +48,7 @@ export default {
         },
         {
           title: 'Moluscos',
-          caption: 'Mullusks',
+          caption: 'Mollusks',
           image: 'moluscos.png'
         },
         {
