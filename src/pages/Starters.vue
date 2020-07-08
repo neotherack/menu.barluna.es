@@ -59,14 +59,14 @@ export default {
           title: 'Croquetas de cecina',
           caption: 'Jerky croquettes',
           image: 'no-image.png',
-          cost: '7,50 €',
+          cost: '8,80 €',
           allergens: [{ name: 'crustaceos' }, { name: 'moluscos' }, { name: 'soja' }, { name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }]
         },
         {
           title: 'Croquetas de boletus con trufa',
           caption: 'Boletus and truffle croquettes',
           image: 'no-image.png',
-          cost: '7,50 €',
+          cost: '8,80 €',
           allergens: [{ name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }]
         },
         {
