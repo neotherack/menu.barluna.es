@@ -30,7 +30,7 @@ export default {
         {
           title: 'PIPIRRANA: Atún, tomate, pimiento rojo y verde, pepino, cebolla y huevo cocido',
           caption: 'PIPIRRANA: Tuna, tomato, pepper, cucumber, onion and boiled egg',
-          image: 'no-image.png',
+          image: 'ensaladas_pipirana.png',
           cost: '7,00 €',
           allergens: [{ name: 'pescado' }, { name: 'huevos' }]
         },
