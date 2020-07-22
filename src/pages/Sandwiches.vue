@@ -23,56 +23,56 @@ export default {
         {
           title: 'Calamares',
           caption: 'Squid',
-          image: 'no-image.png',
+          image: 'bocadillos_calamares.png',
           cost: '4,00 €',
           allergens: [{ name: 'gluten' }, { name: 'moluscos' }, { name: 'soja' }]
         },
         {
           title: 'Jamón serrano',
           caption: 'Serrano ham',
-          image: 'no-image.png',
+          image: 'bocadillos_jamon.png',
           cost: '4,00 €',
           allergens: [{ name: 'gluten' }]
         },
         {
           title: 'Queso',
           caption: 'Cured cheese',
-          image: 'no-image.png',
+          image: 'bocadillos_queso.png',
           cost: '4,00 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
           title: 'Bacon y queso',
           caption: 'Bacon and cheese',
-          image: 'no-image.png',
+          image: 'bocadillos_bacon_queso.png',
           cost: '4,00 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
           title: 'Chorizo',
           caption: 'Red sausage',
-          image: 'no-image.png',
+          image: 'bocadillos_chorizo.png',
           cost: '3,50 €',
           allergens: [{ name: 'gluten' }]
         },
         {
           title: 'Tortilla de patata',
           caption: 'Spanish potato omelette',
-          image: 'no-image.png',
+          image: 'bocadillos_tortilla_patata.png',
           cost: '3,50 €',
           allergens: [{ name: 'gluten' }, { name: 'huevos' }]
         },
         {
           title: 'Tortilla francesa',
           caption: 'Omelette',
-          image: 'no-image.png',
+          image: 'bocadillos_tortilla_francesa.png',
           cost: '3,50 €',
           allergens: [{ name: 'gluten' }, { name: 'huevos' }]
         },
         {
           title: 'Tortilla de chorizo, jamón serrano o atún',
           caption: 'Red sausage, serrano ham or tuna',
-          image: 'no-image.png',
+          image: 'bocadillos_tortilla_otros.png',
           cost: '4,00 €',
           allergens: [{ name: 'gluten' }, { name: 'pescado' }]
         },

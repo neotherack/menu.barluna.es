@@ -44,7 +44,7 @@ export default {
         {
           title: 'Gambones',
           caption: 'Large grilled shrimps',
-          image: 'no-image.png',
+          image: 'raciones_gambones.png',
           cost: '12,80 €',
           allergens: [{ name: 'crustaceos' }, { name: 'sulfitos' }]
         },

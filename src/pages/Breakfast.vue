@@ -30,7 +30,7 @@ export default {
         {
           title: 'Café con leche y tostada de mantequilla y mermelada',
           caption: 'Large caffe latte and butter/jam toast',
-          image: 'no-image.png',
+          image: 'desayunos_cafe_tostada_mantequilla.png',
           cost: '2,40 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
@@ -44,28 +44,28 @@ export default {
         {
           title: 'Café con leche grande con tostada de aceite de oliva',
           caption: 'Large caffe latte and olive oil toast',
-          image: 'no-image.png',
+          image: 'desayunos_cafe_tostada_aceite.png',
           cost: '2,40 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
           title: 'Café con leche grande y tostada con tomate y aceite de oliva',
           caption: 'Large caffe latte with tomato and olive oil toast',
-          image: 'no-image.png',
+          image: 'desayunos_cafe_tostada_aceite_tomate.png',
           cost: '2,60 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         },
         {
           title: 'Café con leche grande y napolitana o croissant',
           caption: 'Large caffe late with “pain au chocolat” or croissant',
-          image: 'no-image.png',
+          image: 'desayunos_cafe_bolleria.png',
           cost: '2,70 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }, { name: 'soja' }, { name: 'frutoscascara' }]
         },
         {
           title: 'Café con leche grande y tostada con jamón serrano, aceite de oliva y tomate',
           caption: 'Large caffe latte with tomato, serrano ham and olive oil toast',
-          image: 'no-image.png',
+          image: 'desayunos_cafe_tostada_aceite_tomate_jamon.png',
           cost: '3,50 €',
           allergens: [{ name: 'gluten' }, { name: 'lacteos' }]
         }
