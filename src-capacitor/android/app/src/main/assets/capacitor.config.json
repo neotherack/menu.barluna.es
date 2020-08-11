@@ -1,0 +1,7 @@
+{
+  "appId": "org.cordova.quasar.app",
+  "appName": "Menú Bar Luna - Sahagún",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
