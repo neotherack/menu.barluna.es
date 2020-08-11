@@ -15,7 +15,7 @@ quasar dev
 ```
 Android app mode:
 ```bash
-quasar dev -m capacitor -T
+quasar dev -m capacitor -T android
 ```
 
 ### Build the app for production
@@ -25,7 +25,7 @@ quasar build
 ```
 Android app mode:
 ```bash
-quasar build -m capacitor -T
+quasar build -m capacitor -T android
 ```
 
 ### Workaround gradle issues
