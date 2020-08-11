@@ -38,10 +38,11 @@ compileOptions {
     }
 ```
 Go for: src-capacitor\android\gradle.properties
+```
 org.gradle.java.home=C:\\Program Files\\Java\\jdk1.8.0_221
 android.enableJetifier=true
 android.useAndroidX=true
-
+```
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 =======
