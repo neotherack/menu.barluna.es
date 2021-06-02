@@ -70,13 +70,6 @@ export default {
           allergens: [{ name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }]
         },
         {
-          title: 'Champiñones',
-          caption: 'Mushrooms',
-          image: 'no-image.png',
-          cost: '7,80 €',
-          allergens: [{ name: 'soja' }, { name: 'gluten' }]
-        },
-        {
           title: 'Torreznos de Soria (2 unidades)',
           caption: 'Thick bacon rashers (2 units)',
           image: 'no-image.png',

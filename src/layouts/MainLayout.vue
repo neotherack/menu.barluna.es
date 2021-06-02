@@ -15,7 +15,7 @@
           {{ place }}
         </q-toolbar-title>
 
-        <div>v{{ version }}</div>
+        <div>{{ version }}</div>
       </q-toolbar>
     </q-header>
 
@@ -60,7 +60,7 @@ export default {
     return {
       place: 'Bar Luna - Sahagún (León)',
       menutitle: 'Menu',
-      version: '1.2',
+      version: 'Junio 2021',
       leftDrawerOpen: true,
       essentialLinks: [
         {

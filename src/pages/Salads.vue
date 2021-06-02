@@ -45,7 +45,7 @@ export default {
           title: 'CECINA Y QUESO DE CABRA: lechuga, tomate, cecina, queso de cabra y crujiente de cebolla',
           caption: 'JERKY (cured cow meat) & GOAT CHEESE: lettuce, tomato, jerky, goat cheese and crispy onion',
           image: 'no-image.png',
-          cost: '8,50 €',
+          cost: '9,50 €',
           allergens: [{ name: 'lacteos' }]
         },
         {
@@ -56,11 +56,11 @@ export default {
           allergens: [{ name: 'lacteos' }, { name: 'frutoscascara' }, { name: 'soja' }]
         },
         {
-          title: 'TROPICAL: lechuga, palitos de cangrejo, piña, pimiento rojo y kiwi',
-          caption: 'TROPICAL: lettuce, seafood sticks, pineapple, pepper and kiwi',
+          title: 'MANZANA, FRUTOS SECOS Y PASAS: lechuga, manzana, nueces, tomate, pasas y queso',
+          caption: 'APPLE, WALNUTS AND RAISINS: lettuce, apple, walnuts, tomato, raisins and cured cheese',
           image: 'no-image.png',
           cost: '8,50 €',
-          allergens: [{ name: 'crustaceos' }, { name: 'huevos' }, { name: 'pescado' }, { name: 'soja' }]
+          allergens: [{ name: 'lacteos' }, { name: 'frutoscascara' }]
         },
         {
           title: 'ENSALADILLA RUSA [Mediana]',

@@ -24,28 +24,28 @@ export default {
           title: 'Ramón Bilbao (tinto)',
           caption: 'Ramón Bilbao (red wine)',
           image: 'bebidas_ramonbilbao.png',
-          cost: '12,00 €',
+          cost: '15,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Rioja (tinto)',
           caption: 'Rioja (red wine)',
           image: 'bebidas_rioja.png',
-          cost: '9,00 €',
+          cost: '12,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Ribera del Duero (tinto)',
           caption: 'Ribera del Duero (red wine)',
           image: 'bebidas_ribera.png',
-          cost: '9,00 €',
+          cost: '12,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Bierzo (tinto)',
           caption: 'Bierzo (red wine)',
           image: 'bebidas_bierzo.png',
-          cost: '7,00 €',
+          cost: '9,00 €',
           allergens: [{ name: 'sulfitos' }],
           flags: [{ name: 'leon' }]
         },
@@ -53,21 +53,21 @@ export default {
           title: 'Prieto Picudo (tinto)',
           caption: 'Prieto Picudo (red wine)',
           image: 'bebidas_prietotinto.png',
-          cost: '7,00 €',
+          cost: '9,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Prieto Picudo (rosado)',
           caption: 'Prieto Picudo (rosé wine)',
           image: 'bebidas_prietopicudo.png',
-          cost: '7,00 €',
+          cost: '9,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Verdejo (blanco)',
           caption: 'Verdejo (white wine)',
           image: 'bebidas_verdejo.png',
-          cost: '7,00 €',
+          cost: '9,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
@@ -81,7 +81,7 @@ export default {
           title: 'Vino de la casa (tinto, rosado o blanco)',
           caption: 'Table wine (red, rosé or white wine)',
           image: 'bebidas_vinomesa.png',
-          cost: '4,00 €',
+          cost: '5,00 €',
           allergens: [{ name: 'sulfitos' }]
         }
       ]

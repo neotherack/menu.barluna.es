@@ -52,7 +52,7 @@ export default {
           title: 'Morcilla de León',
           caption: 'Black pudding (cured pork blood and onion)',
           image: 'raciones_morcilla.png',
-          cost: '6,00 €',
+          cost: '7,50 €',
           allergens: [],
           flags: [{ name: 'leon' }]
         },
@@ -71,11 +71,11 @@ export default {
           allergens: [{ name: 'gluten' }]
         },
         {
-          title: 'Picadillo',
-          caption: 'Minced meat mixture',
+          title: 'Tigres (10 unidades)',
+          caption: 'Bechamel stuffed grilled mussels (10 u.)',
           image: 'no-image.png',
-          cost: '7,50€',
-          allergens: [{ name: 'soja' }]
+          cost: '8,00€',
+          allergens: [{ name: 'moluscos' }, { name: 'gluten' }, { name: 'huevos' }, { name: 'lacteos' }]
         },
         {
           title: 'Calamares',
@@ -97,6 +97,20 @@ export default {
           image: 'principales_hamburguesa.png',
           cost: '6,50€',
           allergens: [{ name: 'gluten' }, { name: 'soja' }, { name: 'lacteos' }]
+        },
+        {
+          title: 'Medio pollo asado con patatas fritas',
+          caption: 'Half a roasted chicken with fries',
+          image: 'no-image.png',
+          cost: '8,50€',
+          allergens: []
+        },
+        {
+          title: 'Pollo asado (para llevar)',
+          caption: 'Roasted chicken (to take away)',
+          image: 'no-image.png',
+          cost: '12,00€',
+          allergens: []
         }
       ]
     }
