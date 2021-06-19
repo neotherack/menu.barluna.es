@@ -106,12 +106,6 @@ export default {
           link: '#/drinks'
         },
         {
-          title: 'Menús',
-          caption: 'Set meals',
-          icon: 'fas fa-utensils',
-          link: '#/setmeals'
-        },
-        {
           title: 'Alérgenos',
           caption: 'Allergens',
           icon: 'fas fa-exclamation-triangle',
