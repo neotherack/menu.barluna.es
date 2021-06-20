@@ -72,7 +72,7 @@ export default {
         {
           title: 'Torreznos de Soria (2 unidades)',
           caption: 'Thick bacon rashers (2 units)',
-          image: 'no-image.png',
+          image: 'entrantes_torreznos.png',
           cost: '6,00 €',
           allergens: []
         },
@@ -87,7 +87,7 @@ export default {
         {
           title: 'Pastel de cabracho',
           caption: 'Red scorpionfish pie',
-          image: 'no-image.png',
+          image: 'entrantes_pastel_cabracho.png',
           cost: '9,00€',
           allergens: [{ name: 'lacteos' }, { name: 'huevos' }, { name: 'pescado' }],
           flags: [{ name: 'asturias' }]
@@ -103,7 +103,7 @@ export default {
         {
           title: 'Chosco',
           caption: 'Cured pork meat',
-          image: 'no-image.png',
+          image: 'entrantes_chosco.png',
           cost: '10,00€',
           allergens: [],
           flags: [{ name: 'asturias' }]

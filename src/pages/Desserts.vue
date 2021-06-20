@@ -23,7 +23,7 @@ export default {
         {
           title: 'Crema de limón (casera)',
           caption: 'Lemon cream (home-made)',
-          image: 'no-image.png',
+          image: 'postres_crema_limon.png',
           cost: '3,50 €',
           allergens: [{ name: 'lacteos' }]
         },
@@ -37,7 +37,7 @@ export default {
         {
           title: 'Tarta comtessa',
           caption: 'Ice cream cake',
-          image: 'no-image.png',
+          image: 'postres_tarta_comtessa.png',
           cost: '3,50 €',
           allergens: [{ name: 'soja' }, { name: 'lacteos' }]
         },
@@ -58,7 +58,7 @@ export default {
         {
           title: 'Flan',
           caption: 'Flan',
-          image: 'no-image.png',
+          image: 'postres_flan.png',
           cost: '3,50 €',
           allergens: [{ name: 'lacteos' }, { name: 'huevos' }]
         },
@@ -93,7 +93,7 @@ export default {
         {
           title: 'Fruta del tiempo',
           caption: 'Fruit (seasonal)',
-          image: 'no-image.png',
+          image: 'postres_fruta.png',
           cost: '2,50 €',
           allergens: []
         }
