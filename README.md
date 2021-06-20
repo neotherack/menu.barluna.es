@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Menú Bar Luna - Sahagún (menu.barluna.es)
 
 This is the menu web app for Bar Luna, Sahagún (León - Spain)
