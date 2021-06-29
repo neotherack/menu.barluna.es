@@ -65,14 +65,14 @@ export default {
         {
           title: 'ENSALADILLA RUSA [Mediana]',
           caption: 'SPANISH POTATO SALAD [Medium size]: potato, tuna, mayo, egg, green peas and seafood sticks',
-          image: 'no-image.png',
+          image: 'ensaladas_ensaladilla.png',
           cost: '4,50 €',
           allergens: [{ name: 'crustaceos' }, { name: 'huevos' }, { name: 'pescado' }, { name: 'moluscos' }]
         },
         {
           title: 'ENSALADILLA RUSA [Grande]',
           caption: 'SPANISH POTATO SALAD [Large]: potato, tuna, mayo, egg, green peas and seafood sticks',
-          image: 'no-image.png',
+          image: 'ensaladas_ensaladilla.png',
           cost: '7,00 €',
           allergens: [{ name: 'crustaceos' }, { name: 'huevos' }, { name: 'pescado' }, { name: 'moluscos' }]
         }

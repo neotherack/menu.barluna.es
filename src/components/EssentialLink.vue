@@ -10,6 +10,7 @@
       avatar
     >
       <q-icon v-if="title=='Alérgenos'" class="text-red" :name="icon" />
+      <q-icon v-else-if="title=='Menú del día'" class="text-red" :name="icon" />
       <q-icon v-else class="text-blue" :name="icon" />
     </q-item-section>
 
