@@ -24,7 +24,7 @@ export default {
           title: 'Zumo de naranja natural',
           caption: 'Fresh orange juice',
           image: 'desayunos_zumo.png',
-          cost: '2,00 €',
+          cost: '2,50 €',
           allergens: []
         },
         {
