@@ -28,17 +28,24 @@ export default {
           allergens: [{ name: 'sulfitos' }]
         },
         {
-          title: 'Rioja (tinto)',
-          caption: 'Rioja (red wine)',
+          title: 'Faustino - Rioja (tinto)',
+          caption: 'Faustino - Rioja (red wine)',
           image: 'bebidas_rioja.png',
           cost: '12,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
-          title: 'Ribera del Duero (tinto)',
-          caption: 'Ribera del Duero (red wine)',
+          title: 'Prado Rey - Ribera del Duero (tinto)',
+          caption: 'Prado Rey - Ribera del Duero (red wine)',
           image: 'bebidas_ribera.png',
           cost: '12,00 €',
+          allergens: [{ name: 'sulfitos' }]
+        },
+        {
+          title: 'Protos - Ribera del Duero (tinto)',
+          caption: 'Protos - Ribera del Duero (red wine)',
+          image: 'bebidas_protos.png',
+          cost: '15,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {

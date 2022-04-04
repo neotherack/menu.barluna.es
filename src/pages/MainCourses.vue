@@ -24,7 +24,7 @@ export default {
           title: 'Costillas de cerdo al Pedro Ximenez con patatas fritas',
           caption: 'Grilled pork chops in Pedro Ximenez sauce with fries',
           image: 'raciones_costillas_pedro_ximenez.png',
-          cost: '10,00 €',
+          cost: '12,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
@@ -45,7 +45,7 @@ export default {
           title: 'Dos huevos fritos con lomo y patatas',
           caption: 'Two fried eggs, fries and pork loin',
           image: 'raciones_huevos_lomo_patatas.png',
-          cost: '8,50 €',
+          cost: '10,00 €',
           allergens: [{ name: 'huevos' }]
         },
         {
