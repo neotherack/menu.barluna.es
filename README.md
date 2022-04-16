@@ -1,9 +1,11 @@
-# Menú Bar Luna - Sahagún (menu.barluna.es)
+# Menu Bar Luna (menubarluna)
 
-This is the menu web app for Bar Luna, Sahagún (León - Spain)
+Menu smartphone app for Bar Luna menus
 
 ## Install the dependencies
 ```bash
+yarn
+# or
 npm install
 ```
 
@@ -12,10 +14,23 @@ npm install
 quasar dev
 ```
 
+
 ### Lint the files
 ```bash
+yarn lint
+# or
 npm run lint
 ```
+
+
+### Format the files
+```bash
+yarn format
+# or
+npm run format
+```
+
+
 
 ### Build the app for production
 ```bash
@@ -23,7 +38,4 @@ quasar build
 ```
 
 ### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-=======
-# menu.barluna.es
->>>>>>> a0b4145dc81174b957e2d0b01a322541ed737dcb
+See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).

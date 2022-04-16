@@ -58,16 +58,16 @@ export default {
         {
           title: 'Croquetas de cecina',
           caption: 'Jerky croquettes',
-          image: 'no-image.png',
+          image: 'raciones_croquetas_cecina.jpg',
           cost: '8,80 €',
           allergens: [{ name: 'crustaceos' }, { name: 'moluscos' }, { name: 'soja' }, { name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }]
         },
         {
-          title: 'Croquetas de boletus con trufa',
-          caption: 'Boletus and truffle croquettes',
-          image: 'no-image.png',
+          title: 'Croquetas de jamón',
+          caption: 'Serrano ham croquettes',
+          image: 'raciones_croquetas_jamon.jpg',
           cost: '8,80 €',
-          allergens: [{ name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }]
+          allergens: [{ name: 'crustaceos' }, { name: 'moluscos' }, { name: 'soja' }, { name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }]
         },
         {
           title: 'Torreznos de Soria (2 unidades)',

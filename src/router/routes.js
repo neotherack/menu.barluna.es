@@ -1,7 +1,6 @@
-
 const routes = [
   {
-    path: '/#',
+    path: '/',
     component: () => import('layouts/MainLayout.vue'),
     children: [
       { path: '/breakfast', component: () => import('pages/Breakfast.vue'), props: { title: 'breakfast' } },
@@ -11,24 +10,17 @@ const routes = [
       { path: '/maincourses', component: () => import('pages/MainCourses.vue'), props: { title: 'maincourses' } },
       { path: '/desserts', component: () => import('pages/Desserts.vue'), props: { title: 'desserts' } },
       { path: '/drinks', component: () => import('pages/Drinks.vue'), props: { title: 'drinks' } },
-      { path: '/allergens', component: () => import('pages/Allergens.vue'), props: { title: 'allergens' } }
+      { path: '/allergens', component: () => import('pages/Allergens.vue'), props: { title: 'allergens' } },
+      { path: '/', component: () => import('pages/DailyMenu.vue'), props: { title: 'daily' } }
     ]
   },
+
+  // Always leave this as last one,
+  // but you can also remove it
   {
-    path: '/',
-    component: () => import('layouts/MainLayout.vue'),
-    children: [
-      { path: '', component: () => import('pages/DailyMenu.vue') }
-    ]
+    path: '/:catchAll(.*)*',
+    component: () => import('pages/ErrorNotFound.vue')
   }
 ]
-
-// Always leave this as last one
-if (process.env.MODE !== 'ssr') {
-  routes.push({
-    path: '*',
-    component: () => import('pages/Error404.vue')
-  })
-}
 
 export default routes

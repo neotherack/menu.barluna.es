@@ -60,7 +60,7 @@ export default {
     return {
       place: 'Bar Luna - Sahagún (León)',
       menutitle: 'Menu',
-      version: 'OCT-2021',
+      version: 'Abril 2022',
       leftDrawerOpen: true,
       essentialLinks: [
         {
@@ -120,19 +120,19 @@ export default {
         {
           title: 'Facebook',
           caption: 'Visítanos - Visit us',
-          icon: 'fab fa-facebook-square',
+          icon: 'fa-brands fa-facebook-square',
           link: 'https://facebook.com/barlunasahagun'
         },
         {
           title: 'TripAdvisor',
           caption: 'Puntúanos - Rate us',
-          icon: 'fab fa-tripadvisor',
+          icon: 'fa-solid fa-arrow-up-right-from-square',
           link: 'https://www.tripadvisor.es/Restaurant_Review-g676288-d8381001-Reviews-Bar_Luna-Sahagun_Province_of_Leon_Castile_and_Leon.html'
         },
         {
           title: 'Google Maps',
           caption: 'Puntúanos - Rate us',
-          icon: 'fab fa-google',
+          icon: 'fa-brands fa-google',
           link: 'https://www.google.es/maps/place/Bar+Luna/@42.3723441,-5.033269,17z/data=!3m1!4b1!4m5!3m4!1s0xd47ff3a80563221:0xe6a366de01fc7c82!8m2!3d42.3723441!4d-5.0310803'
         }
       ]
