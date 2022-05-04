@@ -24,63 +24,63 @@ export default {
           title: 'Patatas bravas [grande]',
           caption: 'Fried potatoes [large] (mayo and tomato sauce)',
           image: 'raciones_bravas.png',
-          cost: '5,00 €',
+          cost: '5,50 €',
           allergens: [{ name: 'huevos' }]
         },
         {
           title: 'Patatas bravas [mediana]',
           caption: 'Fried potatoes [medium size](mayo and tomato sauce)',
           image: 'raciones_bravas.png',
-          cost: '3,00 €',
+          cost: '3,50 €',
           allergens: [{ name: 'huevos' }]
         },
         {
           title: 'Puntillitas',
           caption: 'Tiny fried-battered squid',
           image: 'raciones_chipirones.png',
-          cost: '8,50 €',
+          cost: '10,00 €',
           allergens: [{ name: 'huevos' }, { name: 'soja' }, { name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }, { name: 'apio' }, { name: 'sulfitos' }, { name: 'mostaza' }]
         },
         {
           title: 'Gambones',
           caption: 'Large grilled shrimps',
           image: 'raciones_gambones.png',
-          cost: '12,80 €',
+          cost: '14,00 €',
           allergens: [{ name: 'crustaceos' }, { name: 'sulfitos' }]
         },
         {
           title: 'Boquerones en vinagre',
           caption: 'Vinegar marinated anchovies',
           image: 'raciones_boquerones.png',
-          cost: '8,00 €',
+          cost: '9,00 €',
           allergens: [{ name: 'pescado' }, { name: 'sulfitos' }]
         },
         {
           title: 'Croquetas de cecina',
           caption: 'Jerky croquettes',
           image: 'raciones_croquetas_cecina.jpg',
-          cost: '8,80 €',
+          cost: '10,50 €',
           allergens: [{ name: 'crustaceos' }, { name: 'moluscos' }, { name: 'soja' }, { name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }]
         },
         {
           title: 'Croquetas de jamón',
           caption: 'Serrano ham croquettes',
           image: 'raciones_croquetas_jamon.jpg',
-          cost: '8,80 €',
+          cost: '10,50 €',
           allergens: [{ name: 'crustaceos' }, { name: 'moluscos' }, { name: 'soja' }, { name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }]
         },
         {
           title: 'Torreznos de Soria (2 unidades)',
           caption: 'Thick bacon rashers (2 units)',
           image: 'entrantes_torreznos.png',
-          cost: '6,00 €',
+          cost: '7,50 €',
           allergens: []
         },
         {
           title: 'Chorizo a la sidra',
           caption: 'Cider boiled red saussage',
           image: 'raciones_chorizosidra.png',
-          cost: '3,50 €',
+          cost: '4,00 €',
           allergens: [{ name: 'sulfitos' }],
           flags: [{ name: 'asturias' }]
         },
@@ -88,15 +88,15 @@ export default {
           title: 'Pastel de cabracho',
           caption: 'Red scorpionfish pie',
           image: 'entrantes_pastel_cabracho.png',
-          cost: '9,00€',
+          cost: '10,50€',
           allergens: [{ name: 'lacteos' }, { name: 'huevos' }, { name: 'pescado' }],
           flags: [{ name: 'asturias' }]
         },
         {
-          title: 'Ración de cecina de León',
+          title: 'Cecina de León',
           caption: 'Jerky (cured cow meat)',
           image: 'raciones_cecina.png',
-          cost: '10,00€',
+          cost: '12,00€',
           allergens: [],
           flags: [{ name: 'leon' }]
         },
@@ -109,7 +109,7 @@ export default {
           flags: [{ name: 'asturias' }]
         },
         {
-          title: 'Ración de jamón serrano',
+          title: 'Jamón serrano',
           caption: 'Cured pork ham',
           image: 'raciones_jamon.png',
           cost: '9,00€',

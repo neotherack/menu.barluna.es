@@ -88,7 +88,7 @@ export default {
           title: 'Vino de la casa (tinto, rosado o blanco)',
           caption: 'Table wine (red, rosé or white wine)',
           image: 'bebidas_vinomesa.png',
-          cost: '5,00 €',
+          cost: '6,00 €',
           allergens: [{ name: 'sulfitos' }]
         }
       ]
