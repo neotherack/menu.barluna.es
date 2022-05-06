@@ -73,7 +73,7 @@ export default {
           title: 'Tortilla de chorizo, jamón serrano o atún',
           caption: 'Red sausage, serrano ham or tuna',
           image: 'bocadillos_tortilla_otros.png',
-          cost: '4,50 €',
+          cost: '5,00 €',
           allergens: [{ name: 'gluten' }, { name: 'pescado' }]
         },
         {
