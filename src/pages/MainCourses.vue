@@ -24,21 +24,21 @@ export default {
           title: 'Costillas de cerdo al Pedro Ximenez con patatas fritas',
           caption: 'Grilled pork chops in Pedro Ximenez sauce with fries',
           image: 'raciones_costillas_pedro_ximenez.png',
-          cost: '12,00 €',
+          cost: '14,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Carrilleras en salsa con patatas fritas y ensalada',
           caption: 'Veal cheek stew with fries and salad',
           image: 'raciones_carrilleras_salsa.png',
-          cost: '12,00 €',
+          cost: '14,00 €',
           allergens: [{ name: 'sulfitos' }]
         },
         {
           title: 'Chuletillas de lechazo con patatas fritas',
           caption: 'Grilled lamb chops with fries',
           image: 'raciones_chuletillas_patatas.png',
-          cost: '14,00 €',
+          cost: '16,00 €',
           allergens: []
         },
         {
