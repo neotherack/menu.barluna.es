@@ -42,6 +42,13 @@ export default {
           allergens: [{ name: 'huevos' }, { name: 'soja' }, { name: 'lacteos' }, { name: 'gluten' }, { name: 'pescado' }, { name: 'apio' }, { name: 'sulfitos' }, { name: 'mostaza' }]
         },
         {
+          title: 'Zamburiñas',
+          caption: 'Scallops',
+          image: 'no-image.png',
+          cost: '16,00 €',
+          allergens: [{ name: 'crustaceos' }, { name: 'sulfitos' }, { name: 'pescado' }, { name: 'sulfitos' }]
+        },
+        {
           title: 'Gambones',
           caption: 'Large grilled shrimps',
           image: 'raciones_gambones.png',
@@ -99,14 +106,6 @@ export default {
           cost: '12,00€',
           allergens: [],
           flags: [{ name: 'leon' }]
-        },
-        {
-          title: 'Chosco',
-          caption: 'Cured pork meat',
-          image: 'entrantes_chosco.png',
-          cost: '10,00€',
-          allergens: [],
-          flags: [{ name: 'asturias' }]
         },
         {
           title: 'Jamón serrano',

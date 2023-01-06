@@ -28,13 +28,6 @@ export default {
           allergens: [{ name: 'sulfitos' }]
         },
         {
-          title: 'Carrilleras en salsa con patatas fritas y ensalada',
-          caption: 'Veal cheek stew with fries and salad',
-          image: 'raciones_carrilleras_salsa.png',
-          cost: '14,00 €',
-          allergens: [{ name: 'sulfitos' }]
-        },
-        {
           title: 'Chuletillas de lechazo con patatas fritas',
           caption: 'Grilled lamb chops with fries',
           image: 'raciones_chuletillas_patatas.png',

@@ -60,7 +60,7 @@ export default {
     return {
       place: 'Bar Luna - Sahagún (León)',
       menutitle: 'Menu',
-      version: 'Octubre 2022',
+      version: 'Enero 2023',
       leftDrawerOpen: true,
       essentialLinks: [
         {
