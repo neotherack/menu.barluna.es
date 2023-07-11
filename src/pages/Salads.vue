@@ -24,7 +24,7 @@ export default {
           title: 'MIXTA: Lechuga, tomate, cebolla, maíz, atún, huevo cocido y espárrago',
           caption: 'MIXED: Lettuce, tomato, onion, corn, tuna, egg and asparagus',
           image: 'ensaladas_mixta.png',
-          cost: '8,50 €',
+          cost: '9,50 €',
           allergens: [{ name: 'pescado' }, { name: 'huevos' }]
         },
         {

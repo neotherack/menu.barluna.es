@@ -11,22 +11,22 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@quasar/extras": "^1.0.0",
-    "core-js": "^3.6.5",
+    "@quasar/extras": "^1.16.5",
+    "core-js": "^3.31.1",
     "node-polyfill-webpack-plugin": "^1.1.4",
-    "quasar": "^2.6.0",
+    "quasar": "^2.12.2",
     "vue": "^3.0.0",
-    "vue-i18n": "^9.0.0",
-    "vue-router": "^4.0.0"
+    "vue-i18n": "^9.2.2",
+    "vue-router": "^4.2.4"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.13.14",
-    "@quasar/app-webpack": "^3.0.0",
-    "eslint": "^8.10.0",
-    "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-vue": "^8.5.0",
-    "eslint-webpack-plugin": "^3.1.1",
-    "prettier": "^2.5.1"
+    "@babel/eslint-parser": "^7.22.7",
+    "@quasar/app-webpack": "^3.9.2",
+    "eslint": "^8.44.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-vue": "^8.7.1",
+    "eslint-webpack-plugin": "^3.2.0",
+    "prettier": "^2.8.8"
   },
   "browserslist": [
     "last 10 Chrome versions",
