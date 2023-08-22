@@ -24,7 +24,7 @@ export default {
           title: 'Crema de limón (casera)',
           caption: 'Lemon cream (home-made)',
           image: 'postres_crema_limon.png',
-          cost: '3,50 €',
+          cost: '4,00 €',
           allergens: [{ name: 'lacteos' }]
         },
         {

@@ -75,20 +75,6 @@ export default {
           image: 'bocadillos_tortilla_otros.png',
           cost: '5,00 €',
           allergens: [{ name: 'gluten' }, { name: 'pescado' }]
-        },
-        {
-          title: 'Sándwich mixto',
-          caption: 'Ham and cheese sandwich',
-          image: 'bocadillos_sandwichmixto.png',
-          cost: '4,00 €',
-          allergens: [{ name: 'gluten' }, { name: 'lacteos' }, { name: 'soja' }]
-        },
-        {
-          title: 'Sándwich vegetal: lechuga, huevo, mayonesa, tomate y atún',
-          caption: 'Veggie sandwich: lettuce, egg, tomato, tuna and mayo sauce',
-          image: 'bocadillos_sandwichvegetal.png',
-          cost: '4,00 €',
-          allergens: [{ name: 'gluten' }, { name: 'huevos' }, { name: 'pescado' }, { name: 'lacteos' }]
         }
       ]
     }

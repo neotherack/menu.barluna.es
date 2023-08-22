@@ -28,6 +28,14 @@ export default {
           allergens: [{ name: 'sulfitos' }]
         },
         {
+          title: 'Lengua curada',
+          caption: 'Sliced cured beef tongue',
+          image: 'no-image.jpg',
+          cost: '12,00 €',
+          allergens: []
+        },
+
+        {
           title: 'Chuletillas de lechazo con patatas fritas',
           caption: 'Grilled lamb chops with fries',
           image: 'raciones_chuletillas_patatas.png',

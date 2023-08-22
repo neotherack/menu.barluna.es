@@ -38,7 +38,7 @@ export default {
           title: 'FRUTAS: Lechuga, tomate, naranja, melocotón, nueces, queso y piña',
           caption: 'FRUIT: Lettuce, tomato, orange, peach, walnuts, cheese and pineapple',
           image: 'ensaladas_frutas.png',
-          cost: '9,50 €',
+          cost: '10,00 €',
           allergens: [{ name: 'lacteos' }, { name: 'frutoscascara' }]
         },
         {
