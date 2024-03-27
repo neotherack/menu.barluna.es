@@ -46,7 +46,7 @@ export default {
           title: 'Dos huevos fritos con lomo y patatas',
           caption: 'Two fried eggs, fries and pork loin',
           image: 'raciones_huevos_lomo_patatas.png',
-          cost: '10,00 €',
+          cost: '12,00 €',
           allergens: [{ name: 'huevos' }]
         },
         {

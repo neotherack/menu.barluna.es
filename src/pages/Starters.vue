@@ -111,14 +111,14 @@ export default {
           title: 'Jamón serrano',
           caption: 'Cured pork ham',
           image: 'raciones_jamon.png',
-          cost: '9,00€',
+          cost: '10,00€',
           allergens: []
         },
         {
           title: 'Ración de queso',
           caption: 'Cured cheese',
           image: 'raciones_queso.png',
-          cost: '9,00€',
+          cost: '10,00€',
           allergens: [{ name: 'lacteos' }]
         }
       ]
