@@ -78,8 +78,8 @@ export default {
           allergens: [{ name: 'sulfitos' }]
         },
         {
-          title: 'Albariño (blanco)',
-          caption: 'Albariño (white wine)',
+          title: 'Albarín (blanco)',
+          caption: 'Albarin (white wine)',
           image: 'bebidas_albarino.png',
           cost: '12,00 €',
           allergens: [{ name: 'sulfitos' }]
