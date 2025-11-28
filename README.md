@@ -10,9 +10,15 @@ Menu smartphone app for Bar Luna menus
 
 ## Install the dependencies
 ```bash
-yarn
-# or
 npm install
+```
+
+## Upgrade
+```bash
+npm upgrade
+npm fix
+quasar upgrade
+quasar upgrade -i
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
@@ -23,16 +29,12 @@ quasar dev
 
 ### Lint the files
 ```bash
-yarn lint
-# or
 npm run lint
 ```
 
 
 ### Format the files
 ```bash
-yarn format
-# or
 npm run format
 ```
 
